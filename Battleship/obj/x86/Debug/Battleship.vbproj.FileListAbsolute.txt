@@ -1,0 +1,40 @@
+C:\Documents and Settings\860525\Local Settings\Application Data\Temporary Projects\Battleship\bin\Debug\Battleship.exe
+C:\Documents and Settings\860525\Local Settings\Application Data\Temporary Projects\Battleship\bin\Debug\Battleship.pdb
+C:\Documents and Settings\860525\Local Settings\Application Data\Temporary Projects\Battleship\bin\Debug\Battleship.xml
+C:\Documents and Settings\860525\Local Settings\Application Data\Temporary Projects\Battleship\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\860525\Local Settings\Application Data\Temporary Projects\Battleship\obj\x86\Debug\Battleship.formMenu.resources
+C:\Documents and Settings\860525\Local Settings\Application Data\Temporary Projects\Battleship\obj\x86\Debug\Battleship.Resources.resources
+C:\Documents and Settings\860525\Local Settings\Application Data\Temporary Projects\Battleship\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\860525\Local Settings\Application Data\Temporary Projects\Battleship\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\860525\Local Settings\Application Data\Temporary Projects\Battleship\obj\x86\Debug\Battleship.exe
+C:\Documents and Settings\860525\Local Settings\Application Data\Temporary Projects\Battleship\obj\x86\Debug\Battleship.xml
+C:\Documents and Settings\860525\Local Settings\Application Data\Temporary Projects\Battleship\obj\x86\Debug\Battleship.pdb
+C:\Documents and Settings\860525\Local Settings\Application Data\Temporary Projects\Battleship\obj\x86\Debug\Battleship.formBS.resources
+H:\programming\Battleship\Battleship\obj\x86\Debug\Battleship.exe
+H:\programming\Battleship\Battleship\obj\x86\Debug\Battleship.xml
+H:\programming\Battleship\Battleship\obj\x86\Debug\Battleship.pdb
+H:\programming\Battleship\Battleship\bin\Debug\Battleship.exe
+H:\programming\Battleship\Battleship\bin\Debug\Battleship.pdb
+H:\programming\Battleship\Battleship\bin\Debug\Battleship.xml
+H:\programming\Battleship\Battleship\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\programming\Battleship\Battleship\obj\x86\Debug\Battleship.formMenu.resources
+H:\programming\Battleship\Battleship\obj\x86\Debug\Battleship.formBS.resources
+H:\programming\Battleship\Battleship\obj\x86\Debug\Battleship.Resources.resources
+H:\programming\Battleship\Battleship\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\programming\Battleship\Battleship\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\programming\Battleship\Battleship\obj\x86\Debug\Battleship.FormPSU.resources
+H:\programming\Battleship\Battleship\obj\x86\Debug\Battleship.SelectSetup.resources
+C:\Users\Michail\Desktop\Battleship\Battleship\bin\Debug\Battleship.exe
+C:\Users\Michail\Desktop\Battleship\Battleship\bin\Debug\Battleship.pdb
+C:\Users\Michail\Desktop\Battleship\Battleship\bin\Debug\Battleship.xml
+C:\Users\Michail\Desktop\Battleship\Battleship\obj\x86\Debug\Battleship.vbprojAssemblyReference.cache
+C:\Users\Michail\Desktop\Battleship\Battleship\obj\x86\Debug\Battleship.formMenu.resources
+C:\Users\Michail\Desktop\Battleship\Battleship\obj\x86\Debug\Battleship.formBS.resources
+C:\Users\Michail\Desktop\Battleship\Battleship\obj\x86\Debug\Battleship.FormPSU.resources
+C:\Users\Michail\Desktop\Battleship\Battleship\obj\x86\Debug\Battleship.Resources.resources
+C:\Users\Michail\Desktop\Battleship\Battleship\obj\x86\Debug\Battleship.SelectSetup.resources
+C:\Users\Michail\Desktop\Battleship\Battleship\obj\x86\Debug\Battleship.vbproj.GenerateResource.cache
+C:\Users\Michail\Desktop\Battleship\Battleship\obj\x86\Debug\Battleship.vbproj.CoreCompileInputs.cache
+C:\Users\Michail\Desktop\Battleship\Battleship\obj\x86\Debug\Battleship.exe
+C:\Users\Michail\Desktop\Battleship\Battleship\obj\x86\Debug\Battleship.xml
+C:\Users\Michail\Desktop\Battleship\Battleship\obj\x86\Debug\Battleship.pdb
